@@ -3,7 +3,7 @@ Participacion: - [Jaime Rubio] (https://github.com/Rubicasa/Prueba_git) Desde la
 
 # Mi Proyecto Docker
 
-Este es un texto en *cursiva*.
+Este es un texto en *cursiva*.çç
 Este es un texto en **negrita**.
 
 Aqui hay un ejemplo de codigo fuente:
